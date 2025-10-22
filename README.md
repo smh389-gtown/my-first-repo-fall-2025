@@ -2,4 +2,6 @@
 
 Learning and Practicing Version Control
 
-More content.
+
+
+Adding this content using the VS code text editor (locally).
