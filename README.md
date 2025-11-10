@@ -48,6 +48,13 @@ python -m apps/rps
 
 ```
 
+
+Stocks Dashboard
+
+```sh
+python -m apps/stocks.py
+```
+
 ## Testings
 
 Run tests:
