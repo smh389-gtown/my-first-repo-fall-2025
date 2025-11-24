@@ -11,3 +11,5 @@ plotly
 flask
 
 
+# server production
+gunicorn
